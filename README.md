@@ -29,5 +29,5 @@ The third objective is to create an interactive and visually-rich dashboard that
 
 3. Absenteeism Dashboard: The data analytics team will deliver a fully functional and user-friendly absenteeism dashboard, complete with interactive visualizations and customization options based on the approved wireframe. HR stakeholders will receive hands-on training to effectively utilize the dashboard for ongoing insights and strategic decision-making.
 
+![_HR 1__page-0001](https://github.com/Azzi99/Work_Incentive_Analytics/assets/114465492/19ce02c0-7254-457c-b1f2-c7344d2e2b94)
 
-![Uploading _HR 1__page-0001.jpg…]()
