@@ -1,15 +1,20 @@
 # Project Title: Employee Wellness and Absenteeism Analysis
 
 **Description:**
-
 The "Employee Wellness and Absenteeism Analysis" project is an advanced data analytics initiative aimed at optimizing employee wellness programs and gaining deep insights into absenteeism patterns within the organization. The HR department has commissioned the data analytics team to perform a comprehensive analysis of employee data to achieve three primary objectives:
 
-**Task for data analysis:**
-- build a Database
-- Develop SQL Query
-- Perform Analysis
-- Connect Database to Power BI
-- Build a Dashboard(WireFrame)
+
+**Task for Data Analysis: Employee Wellness and Absenteeism Analysis**
+
+1. Build a Database: Create a relational database for employee data, health metrics, attendance, and wellness participation.
+
+2. Develop SQL Queries: Write SQL queries to retrieve specific data, calculate absenteeism rates, and analyze health metrics.
+
+3. Perform Analysis: Identify eligible employees for the healthy bonus program and explore the relationship between smoking status and compensation.
+
+4. Connect Database to Power BI: Establish a connection between the database and Power BI for real-time data visualization.
+
+5. Build a Dashboard (WireFrame): Design a wireframe layout for the Power BI dashboard displaying key insights on employee wellness and absenteeism.
 
 Objective 1: Healthy Bonus Program Identification
 The first objective is to identify employees who consistently demonstrate good health and maintain a low absenteeism rate. To achieve this, the data analytics team will analyze a wide range of health-related metrics, including Body Mass Index (BMI), blood pressure readings, fitness levels, and overall wellness program participation. The team will also examine historical absenteeism records, considering factors such as the frequency and duration of absences. Based on predetermined eligibility criteria, the team will create a list of eligible employees for the healthy bonus program. The total budget allocated for the healthy bonus program is $1000 USD.
