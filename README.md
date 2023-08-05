@@ -28,5 +28,6 @@ The third objective is to create an interactive and visually-rich dashboard that
 2. Non-Smokers Wage Increase Recommendations: A comprehensive report will be presented, outlining well-researched and data-driven proposals for wage increases or compensation adjustments tailored to non-smoking employees. The report will include a thorough analysis of salary data and market benchmarks.
 
 3. Absenteeism Dashboard: The data analytics team will deliver a fully functional and user-friendly absenteeism dashboard, complete with interactive visualizations and customization options based on the approved wireframe. HR stakeholders will receive hands-on training to effectively utilize the dashboard for ongoing insights and strategic decision-making.
-[‬HR 1‬.pdf](https://github.com/Azzi99/Work_Incentive_Analytics/files/12266739/HR.1.pdf)
 
+
+![Uploading _HR 1__page-0001.jpg…]()
