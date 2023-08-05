@@ -1,5 +1,5 @@
 
-** Employee Wellness Analytics**
+*Employee Wellness Analytics*
 
 **Overview:**
 Employee Wellness Analytics is an innovative data analytics project that leverages advanced techniques to optimize employee well-being and compensation strategies within organizations. The project comprises three key tasks: identifying eligible individuals for a Healthy Bonus Program, calculating fair compensation for non-smokers, and creating an interactive Absenteeism Dashboard for HR insights.
