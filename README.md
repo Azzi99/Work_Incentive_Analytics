@@ -1,30 +1,28 @@
+Project Title: Employee Wellness and Absenteeism Analysis
 
-***Employee Wellness Analytics***
+Description:
+The "Employee Wellness and Absenteeism Analysis" project is an advanced data analytics initiative aimed at optimizing employee wellness programs and gaining deep insights into absenteeism patterns within the organization. The HR department has commissioned the data analytics team to perform a comprehensive analysis of employee data to achieve three primary objectives:
 
-**Overview:**
-Employee Wellness Analytics is an innovative data analytics project that leverages advanced techniques to optimize employee well-being and compensation strategies within organizations. The project comprises three key tasks: identifying eligible individuals for a Healthy Bonus Program, calculating fair compensation for non-smokers, and creating an interactive Absenteeism Dashboard for HR insights.
-
-**Steps for data analysis**
+**Task for data analysis**
 - build a Database
 - Develop SQL Query
 - Perform Analysis
 - Connect Database to Power BI
 - Build a Dashboard(WireFrame)
 
-  **Task for data analysis**
+Objective 1: Healthy Bonus Program Identification
+The first objective is to identify employees who consistently demonstrate good health and maintain a low absenteeism rate. To achieve this, the data analytics team will analyze a wide range of health-related metrics, including Body Mass Index (BMI), blood pressure readings, fitness levels, and overall wellness program participation. The team will also examine historical absenteeism records, considering factors such as the frequency and duration of absences. Based on predetermined eligibility criteria, the team will create a list of eligible employees for the healthy bonus program. The total budget allocated for the healthy bonus program is $1000 USD.
 
-**Task 1: Healthy Bonus Program**
-The data analytics team employs cutting-edge statistical analysis and data mining to identify healthy individuals with low absenteeism rates for the exclusive Healthy Bonus Program. This program aims to incentivize healthy behaviors and create a healthier and more engaged workforce. The team ensures the optimal utilization of the allocated budget of $1000 USD, providing meaningful rewards to deserving employees.
+Objective 2: Non-Smokers Wage Increase and Compensation Adjustment
+The second objective is to propose appropriate wage increases or annual compensation adjustments for non-smoking employees. The data analytics team will extract relevant employee data, including smoking status, salary details, performance metrics, and years of service. By conducting thorough statistical analysis, the team will identify correlations between smoking status and compensation. Leveraging market benchmarks and industry best practices, the team will suggest tailored wage increase proposals or compensation adjustments for non-smokers. The budget allocated for this initiative is $983,221 USD, dedicated solely to enhancing the financial well-being of non-smoking employees and promoting a smoke-free work environment.
 
-**Task 2: Non-Smoker Compensation Optimization**
-To optimize the insurance budget, the project team analyzes salary data and employment records of non-smoking employees. Using state-of-the-art analytics, the team determines appropriate wage increases or annual compensations for non-smokers. The goal is to reward non-smokers fairly while maximizing the $983,221 USD insurance budget.
+Objective 3: Absenteeism Dashboard Development
+The third objective is to create an interactive and visually-rich dashboard that empowers HR stakeholders to understand absenteeism patterns at work. The data analytics team will collaborate with HR managers to finalize the dashboard's wireframe, ensuring it aligns with HR's specific needs and key performance indicators (KPIs). The dashboard will utilize powerful data visualization tools, such as Power BI, Tableau, or custom web-based frameworks, to represent absenteeism trends, reasons for absences, department-wise absenteeism rates, and related productivity impacts. Users will be able to dynamically filter the data based on various criteria, such as time periods, employee categories, and departments, to gain granular insights. This dashboard will serve as a valuable tool for HR decision-making, allowing them to proactively address attendance issues and design effective employee wellness interventions.
 
-**Task 3: Absenteeism Dashboard**
-The project delivers an intuitive and dynamic Absenteeism Dashboard using Power BI or similar tools. Based on an approved wireframe, the dashboard showcases key absenteeism metrics, patterns, and trends. HR gains actionable insights to proactively address attendance issues, monitor employee well-being, and optimize workforce management.
+Project Deliverables:
+1. Eligible Employees List: The data analytics team will provide a comprehensive list of eligible employees for the healthy bonus program, accompanied by a detailed breakdown of health metrics and absenteeism records for each employee.
 
-**Project Goals:**
-- Promote Employee Well-being: Encourage healthy lifestyle choices through the Healthy Bonus Program, fostering a positive work environment.
-- Optimize Compensation Strategies: Fairly reward non-smokers and maximize the insurance budget to attract and retain top talent.
-- Enhance HR Decision-making: Empower HR with real-time insights on absenteeism trends to make data-driven and informed decisions.
-- Increase Workforce Productivity: Cultivate a healthier and more engaged workforce, leading to improved overall productivity.
+2. Non-Smokers Wage Increase Recommendations: A comprehensive report will be presented, outlining well-researched and data-driven proposals for wage increases or compensation adjustments tailored to non-smoking employees. The report will include a thorough analysis of salary data and market benchmarks.
+
+3. Absenteeism Dashboard: The data analytics team will deliver a fully functional and user-friendly absenteeism dashboard, complete with interactive visualizations and customization options based on the approved wireframe. HR stakeholders will receive hands-on training to effectively utilize the dashboard for ongoing insights and strategic decision-making.
 
